@@ -3,6 +3,8 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.thevirus_limiter.twa",
-        "sha256_cert_fingerprints": ["6F:AC:A4:B0:63:B4:E9:CD:62:F9:0C:84:81:F8:08:7A:C6:F9:47:5C:DC:0E:DD:B8:FB:CD:A4:B9:BE:62:4E:8A"]
+        "sha256_cert_fingerprints": ["7B:F7:7F:B5:61:DE:DC:4A:39:F2:98:5D:C9:AC:79:37:35:7D:1E:89:1E:35:03:9C:D6:8A:8C:72:48:2C:31:91",
+        "6F:AC:A4:B0:63:B4:E9:CD:62:F9:0C:84:81:F8:08:7A:C6:F9:47:5C:DC:0E:DD:B8:FB:CD:A4:B9:BE:62:4E:8A"
+        ]
       }
     }]
