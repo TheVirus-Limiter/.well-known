@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.thevirus_limiter.twa",
+        "sha256_cert_fingerprints": ["7B:F7:7F:B5:61:DE:DC:4A:39:F2:98:5D:C9:AC:79:37:35:7D:1E:89:1E:35:03:9C:D6:8A:8C:72:48:2C:31:91"]
+      }
+    }]
